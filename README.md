@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Menowapi from new jersey. I speak English and Spanish but mostly english. 
+- 👋 Hi, I’m @Menowapi from new jersey. I speak English and Spanish 
 - 👀 I’m interested in ... learning stuff
 - 🌱 I’m currently learning ... stuff 
 - 💞️ I’m looking to collaborate on ... stuff
