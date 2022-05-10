@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning stuff
 - 🌱 I’m currently learning ... stuff 
 - 💞️ I’m looking to collaborate on ... stuff
-- 📫 How to reach me ... youtube.com/menowapi 
+- 📫 How to reach me ... www.youtube.com/menowapi 
 
 <!---
 Menowapi/Menowapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
